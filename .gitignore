@@ -1,0 +1,4 @@
+*.cached
+*.map
+.build*
+.DS_Store
