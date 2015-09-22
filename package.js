@@ -1,6 +1,6 @@
 Package.describe({
   name: 'azfx:react-motion',
-  version: '0.1.0',
+  version: '0.1.1',
   summary: 'React-Motion Animation Library packaged for Meteor',
   git: 'https://github.com/azfx/meteor-react-motion',
   documentation: 'README.md'
