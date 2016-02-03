@@ -1,13 +1,13 @@
 Package.describe({
   name: 'azfx:react-motion',
-  version: '0.1.1',
+  version: '0.1.2',
   summary: 'React-Motion Animation Library packaged for Meteor',
   git: 'https://github.com/azfx/meteor-react-motion',
   documentation: 'README.md'
 });
 
 Npm.depends({
-  'react-motion' : '0.2.7',
+  'react-motion' : '0.4.2',
   'externalify': '0.1.0'
 });
 
